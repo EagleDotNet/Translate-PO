@@ -1,0 +1,1265 @@
+# Copyright (C) 2022 YITH
+# This file is distributed under the same license as the YITH WooCommerce Questions and Answers Premium package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Questions and Answers Premium 1.21.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yith-woocommerce-"
+"question-and-answer.premium\n"
+"POT-Creation-Date: 2022-12-29 15:03:09+00:00\n"
+"PO-Revision-Date: 2023-05-14 02:37+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: functions.php:119
+msgid ""
+"YITH WooCommerce Questions and Answers is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:705
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:755
+msgid "Unanswered questions"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:764
+msgid "Questions"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:773
+msgid "Answers"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:888
+msgid "Restore as appropriate content"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:888
+msgid "Set appropriate"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:890
+msgid "Set as inappropriate content"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:890
+msgid "Set inappropriate"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:894
+msgid "Restore as approved content"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:894
+#: lib/class.yith-woocommerce-question-answer.php:418
+msgid "Approve"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:896
+msgid "Set as unapproved content"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:896
+#: lib/class.yith-woocommerce-question-answer.php:420
+msgid "Unapprove"
+msgstr ""
+
+#. translators: %s is the number of questions that have been set as
+#. inappropriate content.
+#: lib/class.yith-woocommerce-question-answer-premium.php:937
+msgid "Inappropriate content <span class=\"count\">(%s)</span>"
+msgid_plural "Inappropriate content <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#. translators: %s is the number of questions that have been set as not
+#. approved.
+#: lib/class.yith-woocommerce-question-answer-premium.php:954
+msgid "Content not approved <span class=\"count\">(%s)</span>"
+msgid_plural "Content not approved <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:982
+msgid ""
+"An error occurred. The requested resource does not exist or the content is "
+"deprecated."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1000
+msgid "The email address is not valid."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1017
+msgid ""
+"Unsubscription completed. You will not receive any more answering requests "
+"for the selected products."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1025
+msgid ""
+"Please, confirm your email address to stop receiving answering requests for "
+"the questions about products you have bought:"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1030
+msgid "Email address"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1039
+msgid "Unsubscribe"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1556
+msgid "Product not found!"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1566
+msgid "Product: "
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1580
+msgid "Response to: "
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1597
+#: lib/class.yith-woocommerce-question-answer.php:574
+msgid "Author"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1598
+msgid "Upvotes"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1599
+msgid "Downvotes"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1600
+msgid "Abuse reports"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1654
+msgid "Thanks"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1655
+msgid "Your content has been sent correctly."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1656
+msgid "An error has occurred, your content has not been added correctly."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1657
+msgid "Please write your text before submitting it."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1658
+msgid "Please enter your name"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1659
+msgid "Please enter your e-mail"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1661
+msgid "Please confirm you are human solving the reCaptcha."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1797
+msgid "%d vote"
+msgid_plural "%d votes"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1816
+msgid "%1$d of %2$d found it useful. What do you think?"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1819
+msgid "Do you think this answer is useful?"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1835
+msgid "Upvote this question"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1841
+msgid "Downvote this question"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:2057
+msgid ""
+"An error occurred during the reCaptcha validation. Recaptcha token not set."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:2070
+msgid ""
+"An error occurred during the reCaptcha validation. The token is not valid."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:2110
+#: lib/class.yith-woocommerce-question-answer-premium.php:2333
+#: lib/class.yith-woocommerce-question-answer.php:288
+#: lib/class.yith-woocommerce-question-answer.php:932
+#: lib/class.yith-woocommerce-question-answer.php:1086
+#: lib/class.ywqa-discussion.php:120
+msgid "Anonymous user"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:2154
+#: lib/class.yith-woocommerce-question-answer-premium.php:2374
+msgid ""
+"Thanks for your post. It has been sent to site administrator for approval."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:2502
+msgid "Thanks!"
+msgstr ""
+
+#. translators: %d: Comment ID
+#: lib/class.yith-woocommerce-question-answer-privacy.php:277
+msgid "Review %d contains personal data but could not be anonymized."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:211
+#: lib/class.yith-woocommerce-question-answer.php:212
+msgid "Content updated."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:213
+msgid "Content published."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:214
+msgid "Content saved."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:215
+msgid "Content submitted."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:352
+msgid "Questions & Answers - Manage answers for this question"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:354
+msgid "Questions & Answers - Question information"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:381
+msgid "UNAPPROVED"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:384
+msgid "INAPPROPRIATE"
+msgstr ""
+
+#. translators: %1$s is the name of the answer author. %2$s is the answer date.
+#: lib/class.yith-woocommerce-question-answer.php:393
+#: templates/single-product/ywqa-single-answer.php:54
+msgid "%1$s answered on %2$s"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:411
+msgid "Are you sure you want to delete it?"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:414
+msgid "Edit"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:415
+msgid "Delete"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:424
+msgid "Confirm"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:425
+msgid "Cancel"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:444
+msgid "Answers for this question"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:454
+msgid "There are no answers for this question yet"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:481
+msgid "Select product"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:531
+msgid "Anonymous"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:564
+#: lib/class.yith-woocommerce-question-answer.php:617
+msgid "Product"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:584
+#: templates/single-product/ywqa-product-answers.php:142
+#: templates/single-product/ywqa-product-answers.php:225
+msgid "Your answer"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:599
+#: templates/single-product/ywqa-product-answers.php:188
+#: templates/single-product/ywqa-product-answers.php:271
+msgid "Answer"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:625
+msgid "Question"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:629
+msgid "Go to question"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:849
+#: lib/class.yith-woocommerce-question-answer.php:864
+#: plugin-options/general-options.php:118
+msgid "Questions & Answers"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:850
+msgid "Parent discussion"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:851
+msgid "All discussion"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:852
+msgid "View discussions"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:853
+msgid "Add new question"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:854
+msgid "Add new"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:855
+msgid "Edit discussion"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:856
+msgid "Update discussion"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:857
+msgid "Search discussion"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:858
+msgid "Not found"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:859
+msgid "Not found in the bin"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:865
+#: lib/compatibility/elementor/class.yith-ywqa-show-questions-elementor-widget.php:27
+msgid "YITH Questions and Answers"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:914
+#: lib/class.yith-woocommerce-question-answer.php:1074
+msgid "Please retry submitting your question or answer."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:920
+msgid "No product ID selected, the question will not be created."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:1227
+msgid "You need to write something!"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:1228
+msgid "Answer correctly sent."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:1229
+msgid "An error occurred, your answer has not been added."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:1563
+msgid "Last Q&A editor"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:1574
+msgid "%1$s edited on %2$s"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:147
+msgid "General"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:148
+msgid "Advanced"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:151
+msgid "Premium Version"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:205
+msgid ""
+"YITH WooCommerce Questions and Answers is available in an outstanding "
+"PREMIUM version with many new options, discover it now."
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:206
+msgid "Premium version"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:214
+msgid "YITH WooCommerce Questions and Answers"
+msgstr ""
+
+#: lib/class.ywqa-plugin-fw-loader.php:215
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Questions and Answers "
+"options.<br> From this menu you can access all settings of YITH plugins "
+"activated."
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:28
+msgid "YITH Q&A - ask answer to customers"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:31
+msgid ""
+"When a new question is submitted for a product, ask a feedback to the "
+"customers that purchased the same product"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:34
+msgid "Give your feedback"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:36
+msgid "[{site_title}] A user need your feedback for [{product_title}]"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:146
+#: lib/emails/class.ywqa-email-notify-answer.php:137
+#: lib/emails/class.ywqa-email-notify-question.php:147
+msgid "Enable/Disable"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:148
+#: lib/emails/class.ywqa-email-notify-answer.php:139
+#: lib/emails/class.ywqa-email-notify-question.php:149
+msgid "Enable this email notification"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:152
+#: lib/emails/class.ywqa-email-notify-answer.php:143
+#: lib/emails/class.ywqa-email-notify-question.php:162
+msgid "Subject"
+msgstr ""
+
+#. translators: %s is the default subject.
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:155
+#: lib/emails/class.ywqa-email-notify-answer.php:146
+#: lib/emails/class.ywqa-email-notify-question.php:165
+msgid ""
+"This controls the email subject line. Leave blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:161
+#: lib/emails/class.ywqa-email-notify-answer.php:152
+#: lib/emails/class.ywqa-email-notify-question.php:171
+msgid "Email Heading"
+msgstr ""
+
+#. translators: % s is the default email heading.
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:164
+#: lib/emails/class.ywqa-email-notify-answer.php:155
+#: lib/emails/class.ywqa-email-notify-question.php:174
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:170
+#: lib/emails/class.ywqa-email-notify-answer.php:161
+#: lib/emails/class.ywqa-email-notify-question.php:180
+msgid "Email type"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-ask-customers-answer.php:172
+#: lib/emails/class.ywqa-email-notify-answer.php:163
+#: lib/emails/class.ywqa-email-notify-question.php:182
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-answer.php:29
+msgid "YITH Q&A - New answer notification"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-answer.php:32
+msgid ""
+"When an answer is submitted, sent a notification to the user who submitted "
+"the question"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-answer.php:35
+msgid "You have a new answer for [{product_title}]"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-answer.php:36
+msgid "[{site_title}] You have a new answer for [{product_title}]"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-question.php:29
+msgid "YITH Q&A - New question notification"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-question.php:32
+msgid ""
+"New question emails are sent to chosen recipient(s) when a new question is "
+"submitted for some product."
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-question.php:35
+msgid "You have a new question for [{product_title}]"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-question.php:36
+msgid "[{site_title}] You have a new question for [{product_title}]"
+msgstr ""
+
+#: lib/emails/class.ywqa-email-notify-question.php:153
+msgid "Recipient"
+msgstr ""
+
+#. translators: %s is the recipient email.
+#: lib/emails/class.ywqa-email-notify-question.php:156
+msgid "Enter recipient for this email. Defaults to <code>%s</code>."
+msgstr ""
+
+#: plugin-options/advanced-options.php:20
+msgid "Advanced settings"
+msgstr ""
+
+#: plugin-options/advanced-options.php:25
+msgid "Vote question"
+msgstr ""
+
+#: plugin-options/advanced-options.php:28
+msgid "Allow users to vote product questions."
+msgstr ""
+
+#: plugin-options/advanced-options.php:33
+msgid "New question notification"
+msgstr ""
+
+#: plugin-options/advanced-options.php:34
+msgid ""
+"Send a notification email to the administrator when new questions are "
+"available."
+msgstr ""
+
+#: plugin-options/advanced-options.php:39
+#: plugin-options/advanced-options.php:54
+msgid "Do not send notifications"
+msgstr ""
+
+#: plugin-options/advanced-options.php:41
+#: plugin-options/advanced-options.php:56
+msgid "Notification in HTML email"
+msgstr ""
+
+#: plugin-options/advanced-options.php:48
+msgid "New answer notification"
+msgstr ""
+
+#: plugin-options/advanced-options.php:49
+msgid ""
+"Send a notification email to the administrator when new answers are "
+"available."
+msgstr ""
+
+#: plugin-options/advanced-options.php:63
+msgid "User notification"
+msgstr ""
+
+#: plugin-options/advanced-options.php:64
+msgid ""
+"Allow users to receive a notification when their questions receive an answer."
+msgstr ""
+
+#: plugin-options/advanced-options.php:72
+msgid "Vote answers"
+msgstr ""
+
+#: plugin-options/advanced-options.php:75
+msgid "Allow users to vote answers."
+msgstr ""
+
+#: plugin-options/advanced-options.php:80
+msgid "Inappropriate content"
+msgstr ""
+
+#: plugin-options/advanced-options.php:84
+msgid "Let users report an answer as inappropriate content."
+msgstr ""
+
+#: plugin-options/advanced-options.php:87
+msgid "Not enabled"
+msgstr ""
+
+#: plugin-options/advanced-options.php:88
+msgid "Only registered users can report an inappropriate content"
+msgstr ""
+
+#: plugin-options/advanced-options.php:89
+msgid "Everyone can report an inappropriate content"
+msgstr ""
+
+#: plugin-options/advanced-options.php:94
+msgid "Hiding threshold"
+msgstr ""
+
+#: plugin-options/advanced-options.php:97
+msgid ""
+"Hide temporarily an answer when a specific number of users has flagged it as "
+"inappropriate. Set this value to 0 to never hide automatically the reviews."
+msgstr ""
+
+#: plugin-options/advanced-options.php:107
+msgid "Answer excerpt"
+msgstr ""
+
+#: plugin-options/advanced-options.php:110
+msgid ""
+"Set max length for answers and show a \"Read more\" text for showing all "
+"content."
+msgstr ""
+
+#: plugin-options/advanced-options.php:120
+msgid "Anonymous mode"
+msgstr ""
+
+#: plugin-options/advanced-options.php:123
+msgid ""
+"Do not show the name of the users that have added a question or an answer."
+msgstr ""
+
+#: plugin-options/advanced-options.php:128
+msgid "Anonymous date mode"
+msgstr ""
+
+#: plugin-options/advanced-options.php:131
+msgid "Do not show the date when users added a question or an answer."
+msgstr ""
+
+#: plugin-options/advanced-options.php:136
+msgid "Ask customers for an answer"
+msgstr ""
+
+#: plugin-options/advanced-options.php:137
+msgid ""
+"Send an email to whoever purchased a product when a new question is "
+"available."
+msgstr ""
+
+#: plugin-options/advanced-options.php:142
+msgid "Do not send requests"
+msgstr ""
+
+#: plugin-options/advanced-options.php:143
+msgid "Send an email to all customers"
+msgstr ""
+
+#: plugin-options/advanced-options.php:144
+msgid "Send an email to a sample of customers"
+msgstr ""
+
+#: plugin-options/advanced-options.php:151
+msgid "Survey sample size"
+msgstr ""
+
+#: plugin-options/advanced-options.php:154
+msgid ""
+"(%) Set the percentage of customers that have bought the product that you "
+"want to contact to ask for an answer."
+msgstr ""
+
+#: plugin-options/advanced-options.php:169
+msgid "reCaptcha"
+msgstr ""
+
+#: plugin-options/advanced-options.php:172
+msgid "Enable reCaptcha on plugin forms."
+msgstr ""
+
+#: plugin-options/advanced-options.php:177
+msgid "reCaptcha version"
+msgstr ""
+
+#: plugin-options/advanced-options.php:182
+msgid "reCaptcha v2"
+msgstr ""
+
+#: plugin-options/advanced-options.php:183
+msgid "reCaptcha v3"
+msgstr ""
+
+#: plugin-options/advanced-options.php:185
+msgid "Choose the reCaptcha version."
+msgstr ""
+
+#: plugin-options/advanced-options.php:194
+msgid "reCaptcha site key"
+msgstr ""
+
+#: plugin-options/advanced-options.php:197
+msgid "Insert your reCaptcha site key."
+msgstr ""
+
+#: plugin-options/advanced-options.php:206
+msgid "reCaptcha secret key"
+msgstr ""
+
+#: plugin-options/advanced-options.php:209
+msgid "Insert your reCaptcha secret key."
+msgstr ""
+
+#: plugin-options/general-options.php:19
+msgid "General settings"
+msgstr ""
+
+#: plugin-options/general-options.php:24
+msgid "Shop name"
+msgstr ""
+
+#: plugin-options/general-options.php:25
+msgid "The reference name for email notifications."
+msgstr ""
+
+#: plugin-options/general-options.php:31
+msgid "Question paging"
+msgstr ""
+
+#: plugin-options/general-options.php:34
+msgid ""
+"Set how many questions you want to show for each product (set 0 to display "
+"all)."
+msgstr ""
+
+#: plugin-options/general-options.php:44
+msgid "Answer paging"
+msgstr ""
+
+#: plugin-options/general-options.php:47
+msgid ""
+"Set how many answers you want to show for each question (set 0 to display "
+"all)."
+msgstr ""
+
+#: plugin-options/general-options.php:57
+msgid "Question approval"
+msgstr ""
+
+#: plugin-options/general-options.php:60
+msgid "The entered question has to be approved before it may be shown."
+msgstr ""
+
+#: plugin-options/general-options.php:65
+msgid "Answer approval"
+msgstr ""
+
+#: plugin-options/general-options.php:68
+msgid "The entered answer has to be approved before it may be shown."
+msgstr ""
+
+#: plugin-options/general-options.php:73
+msgid "Allow guest users"
+msgstr ""
+
+#: plugin-options/general-options.php:76
+msgid "Let guest user to enter questions or answers"
+msgstr ""
+
+#: plugin-options/general-options.php:81
+msgid "Only admins can reply"
+msgstr ""
+
+#: plugin-options/general-options.php:84
+msgid "If enabled, only the admins can reply to the questions."
+msgstr ""
+
+#: plugin-options/general-options.php:89
+msgid "Mandatory data for guest users"
+msgstr ""
+
+#: plugin-options/general-options.php:92
+msgid ""
+"Guest user that want to submit a question or answers must fill his name and "
+"email"
+msgstr ""
+
+#: plugin-options/general-options.php:97
+msgid "FAQ mode"
+msgstr ""
+
+#: plugin-options/general-options.php:100
+msgid ""
+"Don't allow users to add questions and answers, but let them read them in "
+"FAQ mode."
+msgstr ""
+
+#: plugin-options/general-options.php:105
+msgid "Show on product tabs"
+msgstr ""
+
+#: plugin-options/general-options.php:108
+msgid ""
+"Choose if the plugin output should be shown as a tab in the product tabs. "
+"Uncheck it if you want to use the shortcode [ywqa_questions] in a custom "
+"position"
+msgstr ""
+
+#: plugin-options/general-options.php:113
+msgid "Tab label"
+msgstr ""
+
+#: plugin-options/general-options.php:116
+msgid "Set the text for the label showed in single product page"
+msgstr ""
+
+#: plugin-options/general-options.php:121
+msgid "Question section title"
+msgstr ""
+
+#: plugin-options/general-options.php:124
+msgid "Set the title for the section \"Questions & Answers\""
+msgstr ""
+
+#: plugin-options/general-options.php:126
+msgid "Questions and answers of the customers"
+msgstr ""
+
+#: plugin-options/general-options.php:129
+msgid "Questions and Answers counter"
+msgstr ""
+
+#: plugin-options/general-options.php:133
+msgid ""
+"If enabled, a counter will appear in the product to notify the number of "
+"Questions and Answers added to that product."
+msgstr ""
+
+#. translators: %s is the product name.
+#: templates/emails/ywqa-ask-customers.php:24
+msgid ""
+"A user submitted a question about the product <b>%s</b> that you have bought "
+"recently."
+msgstr ""
+
+#: templates/emails/ywqa-ask-customers.php:30
+msgid "The question"
+msgstr ""
+
+#: templates/emails/ywqa-ask-customers.php:34
+msgid "Do you want to answer to the question?"
+msgstr ""
+
+#: templates/emails/ywqa-ask-customers.php:35
+msgid "Go to the question"
+msgstr ""
+
+#: templates/emails/ywqa-ask-customers.php:43
+msgid "Don't receive any more requests for this product"
+msgstr ""
+
+#: templates/emails/ywqa-ask-customers.php:47
+msgid "Don't receive any more requests for any products"
+msgstr ""
+
+#: templates/emails/ywqa-notify-answer.php:37
+msgid "There is a new answer for the question: "
+msgstr ""
+
+#: templates/emails/ywqa-notify-answer.php:58
+#: templates/emails/ywqa-notify-question.php:42
+msgid "Username: "
+msgstr ""
+
+#: templates/emails/ywqa-notify-answer.php:61
+#: templates/emails/ywqa-notify-question.php:45
+msgid "Email: "
+msgstr ""
+
+#: templates/emails/ywqa-notify-answer.php:67
+msgid "The answer"
+msgstr ""
+
+#: templates/emails/ywqa-notify-answer.php:72
+#: templates/emails/ywqa-notify-question.php:56
+msgid "View product"
+msgstr ""
+
+#. translators: %s is the product name.
+#: templates/emails/ywqa-notify-question.php:39
+msgid "There is a new question submitted about the product <b>%s</b>."
+msgstr ""
+
+#: templates/emails/ywqa-notify-question.php:51
+msgid "The question "
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:32
+#: templates/single-product/ywqa-single-question.php:92
+msgid "Q"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:52
+msgid "Back to questions"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:52
+msgid "<<< Back to questions"
+msgstr ""
+
+#. translators: %s is the date when the question was asked.
+#: templates/single-product/ywqa-product-answers.php:61
+#: templates/single-product/ywqa-single-question.php:121
+msgid "Asked on %s"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:66
+#: templates/single-product/ywqa-product-answers.php:79
+#: templates/single-product/ywqa-product-answers.php:93
+#: templates/single-product/ywqa-single-answer.php:37
+#: templates/single-product/ywqa-single-answer.php:48
+#: templates/single-product/ywqa-single-answer.php:60
+msgid "Edit on backend"
+msgstr ""
+
+#. translators: %s is the name of the user who asked the question.
+#: templates/single-product/ywqa-product-answers.php:74
+msgid "Asked by %s "
+msgstr ""
+
+#. translators: %1$s is the date when the question was asked. %2$s is the name
+#. of the use who asked the question.
+#: templates/single-product/ywqa-product-answers.php:87
+#: templates/single-product/ywqa-single-question.php:141
+msgid "Asked by %1$s on %2$s"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:113
+msgid "There are no answers for this question, be the first to respond."
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:148
+#: templates/single-product/ywqa-product-answers.php:231
+msgid "Type your answer here"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:157
+#: templates/single-product/ywqa-product-answers.php:240
+#: templates/single-product/ywqa-product-questions.php:116
+msgid "Name"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:164
+#: templates/single-product/ywqa-product-answers.php:247
+#: templates/single-product/ywqa-product-questions.php:123
+msgid "Enter your name"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:169
+#: templates/single-product/ywqa-product-answers.php:252
+#: templates/single-product/ywqa-product-questions.php:128
+msgid "Email"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:177
+#: templates/single-product/ywqa-product-answers.php:260
+#: templates/single-product/ywqa-product-questions.php:136
+msgid "Enter your email"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:189
+#: templates/single-product/ywqa-product-answers.php:272
+msgid "Answer now to the question"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:205
+#: templates/single-product/ywqa-product-answers.php:278
+msgid "Only registered users are eligible to enter answers"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:290
+msgid "%s answer shown"
+msgid_plural "%s answers shown"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: templates/single-product/ywqa-product-answers.php:293
+msgid "Sort by:"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:294
+msgid "Most useful"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:296
+msgid "Most recent"
+msgstr ""
+
+#: templates/single-product/ywqa-product-answers.php:298
+msgid "Oldest"
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:64
+msgid "No question has still received an answer."
+msgstr ""
+
+#. translators: %d is the number of questions to show.
+#: templates/single-product/ywqa-product-questions.php:80
+msgid "Show all %d questions"
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:80
+msgid "Show all %1$d questions %2$s"
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:80
+msgid "(%d without an answer)"
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:84
+msgid ""
+"There are no questions yet. Be the first to ask a question about this "
+"product."
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:106
+msgid "Your question"
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:109
+msgid "Do you have any questions? Ask now!"
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:149
+msgid "Send me a notification for each new answer."
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:152
+msgid "Ask"
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:153
+msgid "Ask your question"
+msgstr ""
+
+#: templates/single-product/ywqa-product-questions.php:160
+msgid "Only registered users are eligible to enter questions"
+msgstr ""
+
+#: templates/single-product/ywqa-question-counter.php:34
+msgid "%s question"
+msgid_plural "%s questions"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: templates/single-product/ywqa-single-answer.php:21
+#: templates/single-product/ywqa-single-question.php:72
+#: templates/single-product/ywqa-single-question.php:99
+#: templates/single-product/ywqa-single-question.php:212
+msgid "Read more"
+msgstr ""
+
+#: templates/single-product/ywqa-single-answer.php:34
+msgid "Answered on %s"
+msgstr ""
+
+#. translators: %s is the name of the answer author.
+#: templates/single-product/ywqa-single-answer.php:43
+msgid "Answered by %s"
+msgstr ""
+
+#: templates/single-product/ywqa-single-answer.php:83
+msgid "YES"
+msgstr ""
+
+#: templates/single-product/ywqa-single-answer.php:85
+msgid "NO"
+msgstr ""
+
+#: templates/single-product/ywqa-single-answer.php:92
+msgid "Report an inappropriate content"
+msgstr ""
+
+#: templates/single-product/ywqa-single-answer.php:93
+msgid "Report"
+msgstr ""
+
+#: templates/single-product/ywqa-single-question.php:111
+msgid "answer now"
+msgstr ""
+
+#. translators: %s is the name of the use who asked the question.
+#: templates/single-product/ywqa-single-question.php:131
+msgid "Asked by %s"
+msgstr ""
+
+#: templates/single-product/ywqa-single-question.php:203
+msgid "Answered by the admin"
+msgstr ""
+
+#: templates/single-product/ywqa-single-question.php:206
+msgid "A"
+msgstr ""
+
+#: templates/single-product/ywqa-single-question.php:226
+msgid "There are no answers for this question yet."
+msgstr ""
+
+#: templates/single-product/ywqa-single-question.php:244
+msgid "Answer now"
+msgstr ""
+
+#: templates/single-product/ywqa-single-question.php:272
+msgid "Show all %s answers"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Questions and Answers</strong></code> offers "
+"a rapid way to manage dynamic discussions about the products of your shop. "
+"<a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for "
+"your e-commerce shop on <strong>YITH</strong></a>."
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:931
+msgctxt "yith-woocommerce-questions-and-answers"
+msgid "Inappropriate"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:948
+msgctxt "yith-woocommerce-questions-and-answers"
+msgid "Unapproved"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1131
+msgctxt "Page slug"
+msgid "questions_and_answers_unsubscription"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-premium.php:1133
+msgctxt "Page title"
+msgid "Questions & Answers unsubscription"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:31
+msgctxt "Privacy Policy Content"
+msgid "YITH Question and Answers for WooCommerce premium"
+msgstr ""
+
+#: views/privacy/html-policy-content-collect_and_store.php:11
+msgctxt "Privacy Policy Content"
+msgid ""
+"While you visit our site, we collect information about you during the "
+"process of creating question and answers of products. We’ll track:"
+msgstr ""
+
+#: views/privacy/html-policy-content-collect_and_store.php:14
+msgctxt "Privacy Policy Content"
+msgid ""
+"Author name, date, title , content and questions and answer url:  we’ll use "
+"this to create questions and answers of products"
+msgstr ""
+
+#: views/privacy/html-policy-content-has_access.php:11
+msgctxt "Privacy Policy Content"
+msgid ""
+"Members of our team have access to the information you provide us. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+
+#: views/privacy/html-policy-content-has_access.php:14
+msgctxt "Privacy Policy Content"
+msgid ""
+"Author name, date, title and content of the questions and answers you have "
+"made"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:81
+msgctxt "GDPR privacy"
+msgid "Yith Question and Answer"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:170
+msgctxt "GDPR privacy"
+msgid "Question and answer"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:197
+msgctxt "GDPR privacy"
+msgid "Yith Advanced Reviews"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer-privacy.php:244
+msgctxt "GDPR privacy"
+msgid "Anonymous"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:847
+msgctxt "Post Type General Name"
+msgid "Questions & Answers"
+msgstr ""
+
+#: lib/class.yith-woocommerce-question-answer.php:848
+msgctxt "Post Type Singular Name"
+msgid "Question"
+msgstr ""
